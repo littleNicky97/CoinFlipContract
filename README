@@ -1,0 +1,2 @@
+Deployer must choose what ERC-20 token they will be using for winnings. 
+After the contract is deployed the owner must send that same ERC-20 into the contract to cover winnings by using the "deposit" function
